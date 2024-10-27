@@ -1,5 +1,5 @@
 let nomeHeroi = "Thais"
-let pontuacaoHeroi = 999
+let pontuacaoHeroi = 6520
 let nivelHeroi = ""
 
 if(pontuacaoHeroi < 1000) {
