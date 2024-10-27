@@ -16,7 +16,7 @@ if(pontuacaoHeroi < 1000) {
     nivelHeroi = "Ascendente"
 } else if (pontuacaoHeroi >= 9001 && pontuacaoHeroi <= 10000) {
     nivelHeroi = "Imortal"
-} else (pontuacaoHeroi >= 10001) {
+} else  {
     nivelHeroi = "Radiante"
 }
 console.log("O Héroi de nome: " + nomeHeroi + " está no nível de " + nivelHeroi)
